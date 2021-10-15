@@ -1,1 +1,2 @@
-hola mundo
+ejercicio 1- hola mundo
+ejercicio 2- modifico texto y subo cambios al remoto
